@@ -1,0 +1,15 @@
+/vendor/
+
+/node_modules/
+
+.env
+.env.*  # e.g. .env.local, .env.production
+
+/public/build/
+/dist/
+/build/
+
+
+.idea/
+.vscode/
+*.swp
