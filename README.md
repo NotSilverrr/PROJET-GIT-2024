@@ -35,6 +35,6 @@ Avant de commencer, assure-toi d’avoir installé :
 ### Étapes d’installation
 
 **Cloner le projet**  
-Ouvre un terminal
+Ouvre un terminal puis utilise la commande
 git clone https://github.com/NotSilverrr/PROJET-GIT-2024.git
 cd PROJET-GIT-2024
