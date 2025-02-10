@@ -38,3 +38,26 @@ Avant de commencer, assure-toi d’avoir installé :
 Ouvre un terminal
 git clone https://github.com/NotSilverrr/PROJET-GIT-2024.git
 cd PROJET-GIT-2024
+
+---
+
+**Comment contribuer**
+Les contributions sont les bienvenues. Si tu souhaites améliorer SnapShare, suis ces étapes :
+
+Fork le projet
+Crée une branche (git checkout -b feature/ma-fonctionnalite)
+Ajoute tes modifications et commits (git commit -m "Ajout de nouvelle fonctionnalité")
+Pousse ta branche (git push origin feature/ma-fonctionnalite)
+Crée une pull request
+Merci de consulter le Code of Conduct avant de contribuer.
+
+---
+
+**_Code de conduite_**
+Afin de garantir un environnement respectueux et collaboratif, toutes les contributions doivent respecter ces principes :
+
+Faire preuve de respect et de bienveillance envers les autres contributeurs
+Utiliser un langage inclusif et éviter tout propos offensant
+Éviter les conflits et favoriser la discussion constructive
+Respecter les lignes directrices du projet
+Tout comportement inapproprié pourra entraîner une exclusion du projet.
