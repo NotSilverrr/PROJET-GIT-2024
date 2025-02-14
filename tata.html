@@ -1,1 +1,42 @@
-<strong>tata<strong>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .tree {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .generation {
+            display: flex;
+            justify-content: center;
+            margin: 10px;
+        }
+        .person {
+            border: 1px solid black;
+            padding: 10px;
+            margin: 5px;
+            text-align: center;
+            background-color: lightyellow;
+        }
+    </style>
+</head>
+<body>
+    <div class="tree">
+        <div class="generation">
+            <div class="person">Grands-parents</div>
+        </div>
+        <div class="generation">
+            <div class="person">Parent 1</div>
+            <div class="person">Parent 2 (Tata)</div>
+        </div>
+        <div class="generation">
+            <div class="person">Toi</div>
+            <div class="person">Cousins</div>
+        </div>
+    </div>
+</body>
+</html>
