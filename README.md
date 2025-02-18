@@ -41,6 +41,24 @@ cd PROJET-GIT-2024
 
 ---
 
+**Installation avec Docker**
+
+Pour simplifier le déploiement de SnapShare, un fichier docker-compose.yml est inclus.
+
+Instructions :
+
+Assure-toi d’avoir installé Docker et Docker Compose.
+
+Dans le répertoire du projet, exécute :
+
+docker-compose up --build
+
+L’application sera disponible sur http://localhost:8080 et la base de données sur localhost:3306.
+
+Le fichier docker-compose.yml crée un conteneur pour l'application PHP et un autre pour MySQL avec les configurations nécessaires.
+
+---
+
 **Comment contribuer**
 Les contributions sont les bienvenues. Si tu souhaites améliorer SnapShare, suis ces étapes :
 
