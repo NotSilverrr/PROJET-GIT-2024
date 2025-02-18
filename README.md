@@ -47,7 +47,7 @@ Les contributions sont les bienvenues. Si tu souhaites améliorer SnapShare, sui
 Fork le projet
 Crée une branche (git checkout -b feature/ma-fonctionnalite)
 Ajoute tes modifications et commits (git commit -m "Ajout de nouvelle fonctionnalité")
-Pousse ta branche (git push origin feature/ma-fonctionnalite si c'est la première fois que tu l'utilise), ton push se fera sur les deux repos:
+Pousse ta branche (git push origin feature/ma-fonctionnalite si c'est la première fois que tu l'utilise), ton push se fera sur les deux remotes :
 origin https://github.com/NotSilverrr/PROJET-GIT-2024.git
 origin https://github.com/JJJLM/doublepush.git
 (visibles avec la commande git remote -v dans le terminal)
